@@ -25,6 +25,6 @@ Currently focusing on business analytics, machine learning, and software develop
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
 
-## 📫 Want to connect?
+## 📫 Connect?
 - LinkedIn: [Lihong Gao](http://www.linkedin.com/in/lihong-gao)
 - Email: [lihong.gao2002@gmail.com](mailto:lihong.gao2002@gmail.com)
