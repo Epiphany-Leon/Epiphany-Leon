@@ -10,10 +10,18 @@ Currently focusing on business analytics, machine learning, and software develop
 
 - 🎓 Master's student specializing in **Business Analytics and Artificial Intelligence** (Johns Hopkins University).
 - 🎯 Looking for opportunities in **Data Analysis, Business Intelligence, and AI**.
-- 🔭 Currently building **LifeOS** (a personal life management dashboard).
-- 🌱 Now exploring native iOS development with **Xcode & SwiftUI**.
+- 🔭 Currently building [**NexaLife**](https://github.com/Epiphany-Leon/NexaLife) — a local-first macOS life operating system in SwiftUI ("Steer, Don't Drift.").
+- 🌱 Currently exploring native **macOS development** with Xcode, SwiftUI & SwiftData.
 - 🌐 Personal website: [site_lih](https://epiphany-leon.github.io/site_lih/)
 - 💼 Portfolio: [Lihong Gao](https://lihong-gao-portfolio.vercel.app/)
+
+## 🎓 Education
+
+| Degree | Institution | Period |
+| --- | --- | --- |
+| M.S. in Business Analytics & AI | **Johns Hopkins Carey Business School** | Aug 2025 – Aug 2026 (Expected) |
+| Dual Bachelor's Degree (BE & BBA) | Shanghai University of International Business and Economics & Douglas College | Sept 2021 – Jun 2025 |
+| Minor in Law | Fudan University & SUIBE | Sept 2022 – Mar 2024 |
 
 ## 🛠️ Tech Stack
 
@@ -26,6 +34,8 @@ Currently focusing on business analytics, machine learning, and software develop
 
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0066CC?style=flat-square&logo=swift&logoColor=white)
+![SwiftData](https://img.shields.io/badge/SwiftData-1E64C8?style=flat-square&logo=swift&logoColor=white)
 
 
 ## 📫 Connect?
