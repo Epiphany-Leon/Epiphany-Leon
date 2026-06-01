@@ -12,7 +12,7 @@ Currently focusing on business analytics, machine learning, and software develop
 - 🎯 Looking for opportunities in **Data Analysis, Business Intelligence, and AI**.
 - 🔭 Currently building [**NexaLife**](https://github.com/Epiphany-Leon/NexaLife) — a local-first macOS life operating system in SwiftUI ("Steer, Don't Drift.").
 - 🌱 Currently exploring native **macOS development** with Xcode, SwiftUI & SwiftData.
-- 🌐 Personal website: [site_lih](https://epiphany-leon.github.io/site_lih/)
+- 🌐 Personal website: [lihong-gao](https://gaolihong.com/)
 - 💼 Portfolio: [Lihong Gao](https://lihong-gao-portfolio.vercel.app/)
 
 ## 🎓 Education
